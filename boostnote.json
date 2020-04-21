@@ -14,6 +14,26 @@
       "key": "34a8e7126511c9a2f62e",
       "color": "#FF8E00",
       "name": "Spring"
+    },
+    {
+      "key": "417b7601a022d6385670",
+      "color": "#E8D252",
+      "name": "OS"
+    },
+    {
+      "key": "b5f9d83a2e7eaebd91ee",
+      "color": "#30D5C8",
+      "name": "Maven"
+    },
+    {
+      "key": "3a25421c4da9a750dd70",
+      "color": "#E10051",
+      "name": "Java"
+    },
+    {
+      "key": "3e744348ee6d4207d691",
+      "color": "#2BA5F7",
+      "name": "JS"
     }
   ],
   "version": "1.0"

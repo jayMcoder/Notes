@@ -1,0 +1,28 @@
+createdAt: "2020-04-21T11:04:29.865Z"
+updatedAt: "2020-04-21T11:22:07.738Z"
+type: "MARKDOWN_NOTE"
+folder: "417b7601a022d6385670"
+title: "SSH"
+tags: [
+  "ssh"
+]
+content: '''
+  # SSH
+  
+  ### Create ssh key
+  ---
+  #### Windows
+  ssh-keygen -t rsa -b 2048 -C %USERNAME%@%COMPUTERNAME% -f <filename>
+  
+  #### Linux/Mac
+  ssh-keygen -t rsa -b 2048 -C ${USER}@${HOSTNAME} -f <filename>
+  
+  ### Add ssh key to ssh agent
+  ---
+  ssh-add ~/.ssh/<filename>
+  #### Mac
+  ssh-add -K ~/.ssh/<filename>
+'''
+linesHighlighted: []
+isStarred: false
+isTrashed: false
