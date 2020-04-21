@@ -1,0 +1,18 @@
+createdAt: "2020-04-21T00:57:35.407Z"
+updatedAt: "2020-04-21T00:58:54.156Z"
+type: "MARKDOWN_NOTE"
+folder: "68e95e8bb410df213a0b"
+title: "Angular Notes"
+tags: [
+  "angular"
+  "commands"
+]
+content: '''
+  ## Angular Notes
+  
+  ng build
+  ng serve
+'''
+linesHighlighted: []
+isStarred: false
+isTrashed: false
