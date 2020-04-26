@@ -1,11 +1,12 @@
 createdAt: "2020-04-25T19:00:07.705Z"
-updatedAt: "2020-04-26T16:27:20.326Z"
+updatedAt: "2020-04-26T21:31:33.733Z"
 type: "MARKDOWN_NOTE"
 folder: "71a64623fb8d6587b79c"
 title: "Angular CLI"
 tags: [
   "angular"
   "cli"
+  "angular_cli"
 ]
 content: '''
   ## Angular CLI
