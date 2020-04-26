@@ -1,0 +1,15 @@
+createdAt: "2020-04-25T19:00:07.705Z"
+updatedAt: "2020-04-25T19:00:22.311Z"
+type: "MARKDOWN_NOTE"
+folder: "71a64623fb8d6587b79c"
+title: "Angular CLI"
+tags: []
+content: '''
+  ## Angular CLI
+  
+  ng build
+  ng serve
+'''
+linesHighlighted: []
+isStarred: false
+isTrashed: false

@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "key": "fcea623ac52fa0d90bc9",
+      "color": "#30D5C8",
+      "name": "Git"
+    },
+    {
+      "key": "10e50183d9658b31af44",
+      "color": "#30D5C8",
+      "name": "GitHub"
+    },
+    {
+      "key": "39eb5b3ed35b05e54536",
+      "color": "#E10051",
+      "name": "BitBucket"
+    }
+  ],
+  "version": "1.0"
+}

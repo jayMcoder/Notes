@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "key": "a832c46dfa3911f007c6",
+      "color": "#E8D252",
+      "name": "Jenkins"
+    },
+    {
+      "key": "9980b81fe17ad37d440a",
+      "color": "#E10051",
+      "name": "CircleCI"
+    },
+    {
+      "key": "a4055608775b006b5893",
+      "color": "#FF8E00",
+      "name": "TravisCI"
+    }
+  ],
+  "version": "1.0"
+}

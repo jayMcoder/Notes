@@ -1,0 +1,16 @@
+createdAt: "2020-04-25T19:12:04.649Z"
+updatedAt: "2020-04-25T19:12:51.978Z"
+type: "MARKDOWN_NOTE"
+folder: "0fb4b0a3140856bff304"
+title: "Maven CLI"
+tags: []
+content: '''
+  # Maven CLI
+  
+  mvn clean install
+  mvn clean package
+  
+'''
+linesHighlighted: []
+isStarred: false
+isTrashed: false

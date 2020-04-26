@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "key": "2ef1de5620596112028d",
+      "color": "#E8D252",
+      "name": "Docker"
+    },
+    {
+      "key": "c0535be9c5a69ee224a9",
+      "color": "#FF8E00",
+      "name": "Kubernetes"
+    }
+  ],
+  "version": "1.0"
+}
