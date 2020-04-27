@@ -4,6 +4,21 @@
       "key": "402fa78d17dcae21f0ee",
       "color": "#E10051",
       "name": "SSH"
+    },
+    {
+      "key": "61c126dc45604d72c4ea",
+      "color": "#E10051",
+      "name": "Mac"
+    },
+    {
+      "key": "27ec40148aeb3173324f",
+      "color": "#FF8E00",
+      "name": "Linux"
+    },
+    {
+      "key": "6b8c68aaac0db48c7c6b",
+      "color": "#E10051",
+      "name": "Windows"
     }
   ],
   "version": "1.0"

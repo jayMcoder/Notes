@@ -1,0 +1,18 @@
+createdAt: "2020-04-27T00:48:16.719Z"
+updatedAt: "2020-04-27T00:53:03.552Z"
+type: "MARKDOWN_NOTE"
+folder: "61c126dc45604d72c4ea"
+title: "Mac Blogs"
+tags: [
+  "blogs"
+  "mac"
+]
+content: '''
+  # Mac Blogs
+  
+  ## Zsh
+  [Command Line Productivity with ZSH Aliases - Leapfrog](https://blog.lftechnology.com/command-line-productivity-with-zsh-aliases-28b7cebfdff9)
+'''
+linesHighlighted: []
+isStarred: false
+isTrashed: false
