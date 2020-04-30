@@ -1,0 +1,40 @@
+createdAt: "2020-04-30T14:48:33.489Z"
+updatedAt: "2020-04-30T14:53:39.454Z"
+type: "SNIPPET_NOTE"
+folder: "71a64623fb8d6587b79c"
+title: "Angular test template"
+tags: [
+  "angular"
+  "test"
+]
+description: "Angular test template"
+snippets: [
+  {
+    linesHighlighted: []
+    name: "spec template"
+    mode: "JavaScript"
+    content: '''
+      describe('<component>', () => {
+      
+        beforeEach(async(() => {
+        
+        }));
+        
+        afterEach(async(() => {
+        
+        }));
+        
+        it('<should describe test>', () => {
+          // given
+          
+          // when
+          
+          // then
+        
+        });
+      });
+    '''
+  }
+]
+isStarred: false
+isTrashed: false

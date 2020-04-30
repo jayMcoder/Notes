@@ -1,5 +1,5 @@
 createdAt: "2020-04-26T16:27:26.897Z"
-updatedAt: "2020-04-27T00:53:41.096Z"
+updatedAt: "2020-04-29T17:32:10.106Z"
 type: "MARKDOWN_NOTE"
 folder: "71a64623fb8d6587b79c"
 title: "Angular blogs"
@@ -16,6 +16,7 @@ content: '''
   
   ### Testing
   * [The Complete Guide to Angular Testing and a Weird Trick for Faster Unit Tests (2019) – Christian Lüdemann](https://christianlydemann.com/complete-guide-to-angular-testing/)
+  * [Why you shouldn’t use NO_ERRORS_SCHEMA in Angular Unit Tests](https://medium.com/@fivedicephoto/why-you-shouldnt-use-no-errors-schema-in-angular-unit-tests-cdd478c30782)
 '''
 linesHighlighted: []
 isStarred: false
