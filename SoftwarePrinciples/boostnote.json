@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "key": "59eb18353a0d4f91c8f4",
+      "color": "#B013A4",
+      "name": "DesignPrinciples"
+    },
+    {
+      "key": "f07487247038c7d636c3",
+      "color": "#FF8E00",
+      "name": "DesignPatterns"
+    },
+    {
+      "key": "5d1786bb487cb6649e96",
+      "color": "#E10051",
+      "name": "ArchitecturalPatterns"
+    }
+  ],
+  "version": "1.0"
+}

@@ -19,6 +19,11 @@
       "key": "6b8c68aaac0db48c7c6b",
       "color": "#E10051",
       "name": "Windows"
+    },
+    {
+      "key": "ee4f6969dae99c8e703b",
+      "color": "#FF8E00",
+      "name": "ZSH"
     }
   ],
   "version": "1.0"

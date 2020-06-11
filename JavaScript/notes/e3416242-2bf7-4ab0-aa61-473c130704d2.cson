@@ -1,0 +1,18 @@
+createdAt: "2020-05-16T16:53:33.254Z"
+updatedAt: "2020-05-26T23:55:44.024Z"
+type: "MARKDOWN_NOTE"
+folder: "e56f795d62ddde5f99c4"
+title: "Typescript blogs"
+tags: [
+  "blogs"
+  "typescript"
+]
+content: '''
+  # Typescript blogs
+  
+  ## Iterator
+  - [Downlevel Iteration for ES3/ES5 in TypeScript — Marius Schulz](https://mariusschulz.com/blog/downlevel-iteration-for-es3-es5-in-typescript)
+'''
+linesHighlighted: []
+isStarred: false
+isTrashed: false

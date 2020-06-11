@@ -1,0 +1,19 @@
+createdAt: "2020-05-19T14:50:03.645Z"
+updatedAt: "2020-05-27T13:47:26.965Z"
+type: "MARKDOWN_NOTE"
+folder: "ee4f6969dae99c8e703b"
+title: "ZSH blogs"
+tags: [
+  "blogs"
+  "zsh"
+]
+content: '''
+  # ZSH blogs
+  
+  ### Framework
+  - [Command Line Productivity with ZSH Aliases - Leapfrog](https://blog.lftechnology.com/command-line-productivity-with-zsh-aliases-28b7cebfdff9)
+  - [Comparison of ZSH frameworks and plugin managers · GitHub](https://gist.github.com/laggardkernel/4a4c4986ccdcaf47b91e8227f9868ded)
+'''
+linesHighlighted: []
+isStarred: false
+isTrashed: false

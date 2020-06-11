@@ -1,0 +1,18 @@
+createdAt: "2020-05-26T23:53:49.380Z"
+updatedAt: "2020-05-26T23:55:27.483Z"
+type: "MARKDOWN_NOTE"
+folder: "50c1a47d3c8e200ccfba"
+title: "Vanilla js blogs"
+tags: [
+  "blogs"
+  "vanillaJS"
+]
+content: '''
+  # Vanilla js blogs
+  
+  ### JS better code
+  - [5 Tips to Write Better Conditionals in JavaScript ― Scotch.io](https://scotch.io/bar-talk/5-tips-to-write-better-conditionals-in-javascript)
+'''
+linesHighlighted: []
+isStarred: false
+isTrashed: false
